@@ -3,18 +3,18 @@
         "name": "bike",
         "max_speed": 10,
         "cross_crater_time": 2,
-        "travel": ["Sunny", "Windy"]
+        "travel": ["SUNNY", "WINDY"]
     },
     "tuktuk": {
         "name": "tuktuk",
         "max_speed": 12,
         "cross_crater_time": 1,
-        "travel": ["Sunny", "Rainy"]
+        "travel": ["SUNNY", "RAINY"]
     },
     "car": {
         "name": "car",
         "max_speed": 20,
         "cross_crater_time": 3,
-        "travel": ["Sunny", "Rainy", "Windy"]
+        "travel": ["SUNNY", "RAINY", "WINDY"]
     }
 }
