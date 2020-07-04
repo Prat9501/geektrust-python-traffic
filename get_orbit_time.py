@@ -36,6 +36,4 @@ def get_orbit_time(input_data, vehicles):
                     'orbit': orbit,
                     'time': temp
                 })
-    print(result)
-
-
+    return result
