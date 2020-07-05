@@ -14,8 +14,8 @@ def get_orbit_time(input_data, vehicles):
         "time": 2147483647
     }
     traffic_speed = {
-        "Orbit1": int(input_data[1]),
-        "Orbit2": int(input_data[2])
+        "ORBIT1": int(input_data[1]),
+        "ORBIT2": int(input_data[2])
     }
 
     for orbit, data in orbit_data.items():
@@ -36,4 +36,6 @@ def get_orbit_time(input_data, vehicles):
                     'orbit': orbit,
                     'time': temp
                 })
+    print(f"{result['vehicle_name']} {result['orbit']}")
     return result
+    # print(result)

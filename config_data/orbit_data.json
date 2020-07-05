@@ -1,12 +1,12 @@
 {
-    "Orbit1": {
+    "ORBIT1": {
         "route": "Orbit1",
         "distance": 18,
         "craters": 20,
         "source": "Silk Dorb",
         "destination": "Hallitharam"
     },
-    "Orbit2": {
+    "ORBIT2": {
         "route": "Orbit2",
         "distance": 20,
         "craters": 10,
