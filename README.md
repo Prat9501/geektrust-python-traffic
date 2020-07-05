@@ -1,4 +1,6 @@
 # Geektrust Traffic Problem
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4c9ccf45bd94e0b8ed32d9ca4c23ffe)](https://www.codacy.com/manual/pythonprogsnscripts/geekttrustproblems?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pythonprogsnscripts/geekttrustproblems&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/e4c9ccf45bd94e0b8ed32d9ca4c23ffe)](https://www.codacy.com/manual/pythonprogsnscripts/geekttrustproblems?utm_source=github.com&utm_medium=referral&utm_content=pythonprogsnscripts/geekttrustproblems&utm_campaign=Badge_Coverage)
+[![language](https://img.shields.io/badge/language-python-yellowgreen)]()
+
+## Lengaburu's Traffic
+![](traffic.png)
