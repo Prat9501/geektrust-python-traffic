@@ -6,7 +6,8 @@
 ![](traffic.png)
 
 ## Steps
-This project is solved using Python 3.7. 
+This project is solved using Python 3.7.
+
 Project Directory
 
 ```
