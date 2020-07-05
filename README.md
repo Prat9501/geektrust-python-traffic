@@ -8,7 +8,8 @@
 ## Steps
 This project is solved using Python 3.7. 
 Project Directory
-.
+
+```
 ├── src 
 │   ├── config_data         # Data about the vehicles & orbit.
 │   ├── sample_input        # Sample input file params.       
@@ -19,6 +20,7 @@ Project Directory
 │   ├── test_data           # Sample input & output data for test.         
 │   ├── geektrust_test.py   # `Main test file`              
 └── requirements.txt
+```
 
 - Setup the virtualenv for project. `virtualenv -p python3 venv`
 - `cd` to project directory
