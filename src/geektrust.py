@@ -16,7 +16,6 @@ def main():
     with open('src/sample_input/output1.txt', 'w') as f:
         f.write(f"{res['vehicle_name']} {res['orbit']}") 
 
-    # python -m geektrust sample_input/input1.txt
 
 
 if __name__ == '__main__':
