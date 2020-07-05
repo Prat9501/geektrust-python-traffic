@@ -2,9 +2,9 @@ import os
 import json
 
 vehicle_data = json.load(open(
-    os.path.join('config_data/vehicle_data.json')))
+    os.path.join('src/config_data/vehicle_data.json')))
 orbit_data = json.load(open(
-    os.path.join('config_data/orbit_data.json')))
+    os.path.join('src/config_data/orbit_data.json')))
 
 
 def get_orbit_time(input_data, vehicles):
