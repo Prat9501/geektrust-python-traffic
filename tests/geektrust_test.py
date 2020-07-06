@@ -2,8 +2,8 @@ import os
 import sys
 import re
 import pytest
-from src.get_vehicles import get_vehicle
-from src.get_orbit_time import get_orbit_time
+from get_vehicles import get_vehicle
+from get_orbit_time import get_orbit_time
 
 
 n_files = len(os.listdir('tests/test_data/input_data'))

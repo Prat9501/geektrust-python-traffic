@@ -11,7 +11,6 @@ This project is solved using Python 3.7.
 Project Directory
 
 ```
-├── src 
 │   ├── config_data         # Data about the vehicles & orbit.
 │   ├── sample_input        # Sample input file params.       
 │   └── geektrust.py        # `Main method file.`
@@ -29,7 +28,7 @@ Project Directory
 - Run tests
     - `pytest tests/geektrust_test.py`
 - Run solution file
-    - `python -m src.geektrust src/sample_input/input1.txt`
+    - `python -m geektrust sample_input/input1.txt`
 
 - To see the code coverage, run
     - `coverage run -m pytest tests/geektrust_test.py`

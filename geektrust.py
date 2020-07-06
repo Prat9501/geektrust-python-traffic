@@ -1,7 +1,7 @@
 import os
 import sys
-from .get_vehicles import get_vehicle
-from .get_orbit_time import get_orbit_time
+from get_vehicles import get_vehicle
+from get_orbit_time import get_orbit_time
 
 
 def main():
@@ -13,7 +13,7 @@ def main():
     vehicle_data = get_vehicle(input_data[0])
     res = get_orbit_time(input_data, vehicle_data)
 
-    with open('src/sample_input/output1.txt', 'w') as f:
+    with open('sample_input/output1.txt', 'w') as f:
         f.write(f"{res['vehicle_name']} {res['orbit']}") 
 
 
